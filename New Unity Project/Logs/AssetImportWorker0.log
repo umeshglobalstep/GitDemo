@@ -1,0 +1,147 @@
+Using pre-set license
+Built from 'trunk' branch; Version is '2021.1.0a10 (fa6955fa3c39) revision 16410965'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro; OS build 19041.685; Version 2004; 64bit' Language: 'en' Physical Memory: 16326 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+E:\Setup\Unity 2021.1.0a10\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/GS1799/New Unity Project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+62619
+Successfully changed project path to: C:/Users/GS1799/New Unity Project
+C:/Users/GS1799/New Unity Project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 23.62 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.0a10 (fa6955fa3c39)
+[Subsystems] Discovering subsystems at path E:/Setup/Unity 2021.1.0a10/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/GS1799/New Unity Project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 3GB (ID=0x1c02)
+    Vendor:   NVIDIA
+    VRAM:     2988 MB
+    Driver:   27.21.14.5148
+Initialize mono
+Mono path[0] = 'E:/Setup/Unity 2021.1.0a10/Editor/Data/Managed'
+Mono path[1] = 'E:/Setup/Unity 2021.1.0a10/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'E:/Setup/Unity 2021.1.0a10/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56336
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: E:/Setup/Unity 2021.1.0a10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001359 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 23.22 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.097 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001220 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.851 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1109 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 190.0 MB.
+System memory in use after: 190.0 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1565.
+Total: 2.357100 ms (FindLiveObjects: 0.181400 ms CreateObjectMapping: 0.055000 ms MarkObjects: 2.013300 ms  DeleteObjects: 0.105800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Test.uxml
+  artifactKey: Guid(f23d560fdd5761c4eb6b69ca15d8cf71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Test.uxml using Guid(f23d560fdd5761c4eb6b69ca15d8cf71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3b87cabfa912cdbc5fa8c759edb1c20') in 0.045858 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8.809186 seconds.
+  path: Assets/Testsada.uxml
+  artifactKey: Guid(f23d560fdd5761c4eb6b69ca15d8cf71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testsada.uxml using Guid(f23d560fdd5761c4eb6b69ca15d8cf71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6bff5700d045e67faa920a72bb1402bd') in 0.010375 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 25205.431236 seconds.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1b4b02a1d48c863987a2fdcc41fd20') in 0.004856 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 176.165753 seconds.
+  path: Assets/jeep-compass.jpg
+  artifactKey: Guid(5180c404d05194141a963c4482bb003e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/jeep-compass.jpg using Guid(5180c404d05194141a963c4482bb003e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13b5ece48cfdf7c2a1c473a855682934') in 0.394657 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.830111 seconds.
+  path: Assets/jeep-compass.jpg
+  artifactKey: Guid(5180c404d05194141a963c4482bb003e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/jeep-compass.jpg using Guid(5180c404d05194141a963c4482bb003e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd348776edc5c736b68ada9a61c597a7d') in 0.298027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1322.420164 seconds.
+  path: Assets/NewTSSFile.tss
+  artifactKey: Guid(c1f9610a7d049d1448d59dae23cca28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewTSSFile.tss using Guid(c1f9610a7d049d1448d59dae23cca28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a440d2891cde6209e2efb1c598d42934') in 0.011906 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 45.229835 seconds.
+  path: Assets/NewTSSFile.tss
+  artifactKey: Guid(c1f9610a7d049d1448d59dae23cca28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewTSSFile.tss using Guid(c1f9610a7d049d1448d59dae23cca28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ff8f83c72fcebc879fb6a9d761cafbc') in 0.003313 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 9.553806 seconds.
+  path: Assets/NewTSSFile.tss
+  artifactKey: Guid(c1f9610a7d049d1448d59dae23cca28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewTSSFile.tss using Guid(c1f9610a7d049d1448d59dae23cca28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4b13ba7da28abbcfa32df537f04d9f9') in 0.003399 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.968407 seconds.
+  path: Assets/NewTSSFile.tss
+  artifactKey: Guid(c1f9610a7d049d1448d59dae23cca28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewTSSFile.tss using Guid(c1f9610a7d049d1448d59dae23cca28f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e3b1861da57156cdd11793ae5ffa47fb') in 0.003802 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.703640 seconds.
+  path: Assets/NewUSSFile.uss
+  artifactKey: Guid(acca6ad354ed1bc45b7bbef3031d5ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewUSSFile.uss using Guid(acca6ad354ed1bc45b7bbef3031d5ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11344159c595759d799f9003822eb271') in 0.005898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 5.963567 seconds.
+  path: Assets/NewUSSFile.uss
+  artifactKey: Guid(acca6ad354ed1bc45b7bbef3031d5ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewUSSFile.uss using Guid(acca6ad354ed1bc45b7bbef3031d5ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62f8e31a1845c63ccfdcbebf9557d424') in 0.002947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 80.940365 seconds.
+  path: Assets/TEst.uss
+  artifactKey: Guid(0f55be7f01eaefe40a701d5302f0a52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TEst.uss using Guid(0f55be7f01eaefe40a701d5302f0a52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0971e6d9ad6ccc6643ec177117b96fbc') in 0.004299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.855477 seconds.
+  path: Assets/NewUXMLTemplate.uxml
+  artifactKey: Guid(3f7f56ecbe994e6488711c4bddccdbd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/NewUXMLTemplate.uxml using Guid(3f7f56ecbe994e6488711c4bddccdbd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '217aaf1251aac2202a66321202458482') in 0.010069 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
